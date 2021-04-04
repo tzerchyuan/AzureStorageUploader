@@ -7,4 +7,5 @@ This python script will help upload all the necessary files needed to host your 
 
 1) You will need to run `pip install azure_storage_blob`.
 2) Set env variable AZURE_STORAGE_CONNECTION_STRING={your_azure_storage_connection_string}
-3) Run the script
+3) Navigate to directory that contains `dist` folder
+4) Run the script
